@@ -7,8 +7,7 @@ Introduction to MySQL
 The analysis leverages MySQL for data manipulation and exploration. For those unfamiliar with MySQL, it serves as a robust relational database management system widely used in various industries.
 
 
-Objectives of Analysis
-The primary objectives of the analysis are:
+OBJECTIVES:
 
 Understanding Compensation:
 Identify the highest-paid career.
