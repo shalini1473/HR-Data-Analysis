@@ -38,5 +38,6 @@ Analyze the average age of employees based on race and position.
 
 CONCLUSION:
 
+
 The HR Data Analysis Project has provided valuable insights into various facets of employee information, shedding light on critical aspects of the workforce. Through rigorous exploration and analysis, several key findings have emerged,The analysis revealed the highest-paid career within the organization, providing strategic guidance for individuals aspiring for top-tier positions.
 Average salaries across different job categories were identified, aiding in benchmarking and salary structure evaluations.
