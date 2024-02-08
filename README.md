@@ -22,6 +22,7 @@ Analyze how absence affects individual salaries.
 Examine the most common reasons for termination and their association with race.
 Assess the relationship between recruitment sources and employee performance.
 
+
 Departmental Analysis:
 
 Determine the average salary based on department.
