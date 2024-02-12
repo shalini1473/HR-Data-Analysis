@@ -1,6 +1,7 @@
 HR Data Analysis Project:
 
 
+
 About Data
 The HR Data Analysis Project centers around a dataset obtained from the Human Resource Management Office, offering a rich source of information about employees. The dataset encompasses a variety of factors, including compensation, demographic details, employee satisfaction, and reasons for termination.
 
